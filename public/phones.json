@@ -1,0 +1,34 @@
+{
+	"caption": "Devices List",
+	"attributes": {
+		"class": "table table-bordered",
+		"id": "devices-table"
+	},
+	"rows": [
+		{
+			"attributes": {},
+			"cols": [
+				{
+					"attributes": {
+						"rowspan": "2",
+						"data-base": null
+					},
+					"value": "Android"
+				},
+				{
+					"attributes": {},
+					"value": "<img src='public/img/motorola-xoom.jpg'/><p>Motorolla <em>Xoom</em></p>"
+				}
+			]
+		},
+		{
+			"attributes": {},
+			"cols": [
+				{
+					"attributes": {},
+					"value": "<img src='public/img/nexus-s.jpg'/><p>Nexus S</p>"
+				}
+			]
+		}
+	]
+}

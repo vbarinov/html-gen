@@ -1,0 +1,24 @@
+{
+    "name": "vbarinov/html-gen",
+    "description": "HTML generator",
+    "require": {
+        "php": ">=5.3.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.0",
+        "phpdocumentor/phpdocumentor": "2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladislav B",
+            "email": "vvbarinov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
